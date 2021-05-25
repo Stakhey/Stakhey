@@ -40,10 +40,13 @@
 <br /> 
 <br />
 
+---
+
 ### GitHub Stats
 
 <img align="left" alt="Stakhey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stakhey&show_icons=true&theme=dark" />  
 
+<br />  
 <br /> 
 
 ---
