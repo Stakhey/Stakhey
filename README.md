@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Code every single day to form a strong habit and learn lots of new things!
 - ⚽ Fun Fact 1: I support Manchester City and have done since I was 3 years old.  
 - 🎶 Fun Fact 2: My favourite type of music is LoFi, or game music, as it helps me focus while doing work.  
-- 💬 Fub Fact 3: I can speak English and Russian, I'm learning how to speak Chinese and Spanish, and in the future I would like to learn how to speak Japanese or ASL. 
+- 💬 Fun Fact 3: I can speak English and Russian, I'm learning how to speak Chinese and Spanish, and in the future I would like to learn how to speak Japanese or ASL. 
 
 ### Connect With Me:
 
