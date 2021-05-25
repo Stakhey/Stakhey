@@ -17,6 +17,8 @@
 [<img align="left" alt="@StakheySedykh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Stakhey Sedykh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br /> 
+
 ---
 
 ### Languages And Tools:
@@ -40,7 +42,11 @@
 
 ### GitHub Stats
 
-<img align="left" alt="Stakhey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stakhey&show_icons=true&theme=dark" /> 
+<img align="left" alt="Stakhey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stakhey&show_icons=true&theme=dark" />  
+
+<br /> 
+
+---
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START --> 
