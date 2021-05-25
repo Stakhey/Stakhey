@@ -36,20 +36,6 @@
 
 <img align ="left" alt="Stakhey's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stakhey&layout=compact&theme=dark" />  
 
-<br /> 
-<br /> 
-<br /> 
-<br />
-
----
-
-### GitHub Stats
-
-<img align="left" alt="Stakhey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stakhey&show_icons=true&theme=dark" />  
-
-<br />  
-<br /> 
-<br /> 
 <br />
 
 ---
@@ -65,6 +51,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br />
+
+---
+
+### GitHub Stats
+
+<img align="left" alt="Stakhey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stakhey&show_icons=true&theme=dark" />  
 
 [website]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [twitter]: https://twitter.com/StakheySedykh
