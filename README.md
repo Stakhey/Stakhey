@@ -1,6 +1,6 @@
 ### Who Is @Stakhey?
 
-<img align="left" alt= "GitHub Follow" src = "https://img.shields.io/github/followers/stakhey?style=social" 
+<img align="left" alt= "GitHub Follow" src = "https://img.shields.io/github/followers/stakhey?style=social" />
 
 ## I'm a Software Engineer, Content Creator And An Apiring Indie Game Dev!
 
