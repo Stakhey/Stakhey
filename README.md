@@ -56,8 +56,6 @@
 - [Actually Perfect Your Code With The Revolutionary #100DaysOfCode Challenge](https://stakhey.medium.com/actually-perfect-your-code-with-the-revolutionary-100daysofcode-challenge-d153984017c6?source=rss-56b18c9cc15d------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
 ---
 
 ### GitHub Stats
