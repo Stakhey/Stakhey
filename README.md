@@ -45,6 +45,8 @@
 
 ---
 
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stakhey&show_icons=true&hide_border=true" />
+
 [website]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [twitter]: https://twitter.com/StakheySedykh
 [youtube]: https://www.youtube.com/channel/UCBtHQBZ3xdlXf67X1k30WYA
