@@ -60,8 +60,7 @@
 
 ### GitHub Stats
 
-<img align="left" alt="Stakhey's Github Stats" src="https://github-readme-stats-brown-mu.vercel.app
-/api?username=stakhey&show_icons=true&theme=dark" />  
+<img align="left" alt="Stakhey's Github Stats" src="https://github-readme-stats-brown-mu.vercel.app/api?username=stakhey&show_icons=true&theme=dark" />  
 
 [website]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [twitter]: https://twitter.com/StakheySedykh
