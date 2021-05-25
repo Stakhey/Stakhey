@@ -2,6 +2,8 @@
 
 <img align="left" alt= "GitHub Follow" src = "https://img.shields.io/github/followers/stakhey?style=social" />
 
+<br />
+
 ## I'm a Software Engineer, Content Creator And An Apiring Indie Game Dev!
 
 - 🌱 I’m currently learning Python, and want to learn C#, Rust, and Web Development!
