@@ -9,8 +9,6 @@
 - 🎶 Fun Fact 2: My favourite type of music is LoFi, or game music, as it helps me focus while doing work.  
 - 💬 Fun Fact 3: I can speak English and Russian, I'm learning how to speak Chinese and Spanish, and in the future I would like to learn how to speak Japanese or ASL. 
 
-<br />
-
 ### Connect With Me:
 
 [<img align="left" alt="Stakhey.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -19,7 +17,7 @@
 [<img align="left" alt="@StakheySedykh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Stakhey Sedykh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+---
 
 ### Languages And Tools:
 
@@ -29,6 +27,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
 <br />
 
 ### Language Stats 
