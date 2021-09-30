@@ -79,6 +79,7 @@
 
 ### GitHub Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/NiklasAsketill/Discord-Welcome-Bot/issues/1) in [NiklasAsketill/Discord-Welcome-Bot](https://github.com/NiklasAsketill/Discord-Welcome-Bot)
 <!--END_SECTION:activity-->
 
 [website]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
