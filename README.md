@@ -1,89 +1,46 @@
-### Who Is @Stakhey?
+<h1>
+Hello, I'm @Stakhey! 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+</h1>
 
-<img align="left" alt= "GitHub Follow" src = "https://img.shields.io/github/followers/stakhey?style=social" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=print(%22Hello+World!%22);age+%3D+15;hobbies+%3D+%5Bchess%2C+music%2C+coding%5D;if+date+%3D+%223+Dec%22%3A;print(%22Happy+Birthday!%22);while+life+%3D%3D+True%3A;print(%22I+%E2%9D%A4+programming!%22))](https://git.io/typing-svg)
 
-<br />
+<b>I am a passionate 15 year old developer from London, UK</b>
 
-## I'm a Software Engineer, Content Creator And An Apiring Indie Game Dev!
+<!--TODO: 5-10 Bullet Points About Me: -->
+- Occupation: I currently attend Dartford Grammar School
+- 2023 Coding Goals: Create my personal website and finish The Odin Project Ruby On Rails path
+- Future Goals: Start GameDev and take part in the GMTK Game Jam. 
+- ⚽ Fun Fact 1: I support Manchester City and have done since I was 5 years old. My favourite football player of all time is Sergio Agueroooooooooo- 
+- 🎶 Fun Fact 2: My favourite type of music is rock music, so I like listening to bands such as Arctic Monkeys, Lovejoy, The Wombats, Tame Impala and Gorrilaz. 
+- ♛ Fun Fact 3: Aside from programming, my hobbies are playing the flute and playing chess. My greatest achievement so far is drawing to a Grand Master!
+- 💬 Fun Fact 4: I can speak two languages, English and Russian, and am also currently learning Spanish and Chinese. In the future I would love to learn Japanese and maybe even Germaan.
 
-- 🌱 I’m currently learning Python, and want to learn C#, Rust, and Web Development!
-- 💞️ I’m looking to collaborate on small fun projects, such as a game or a bot, with literally anybody! 
-- 🥅 2021 Goals: Code every single day to form a strong habit and learn lots of new things!
-- ⚽ Fun Fact 1: I support Manchester City and have done since I was 3 years old.  
-- 🎶 Fun Fact 2: My favourite type of music is LoFi, or game music, as it helps me focus while doing work.  
-- 💬 Fun Fact 3: I can speak English and Russian, I'm learning how to speak Chinese and Spanish, and in the future I would like to learn how to speak Japanese or ASL. 
+<br>
 
-### Connect With Me:
+## Technologies & Tools:
 
-[<img align="left" alt="Stakhey.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SweatySyntax | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="@StakheySedykh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="@StakheySedykh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Stakhey Sedykh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![My Skills](https://skillicons.dev/icons?i=github,linux,bash,vscode,stackoverflow,py,js,html,css,discord,ruby,rails&theme=dark)](https://skillicons.dev)
 
-<br /> 
+## Connect With Me: 
 
----
+[<img align="left" alt="Stakhey.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="SweatySyntax | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="@StakheySedykh | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 
-### Languages And Tools:
+<br><br>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<details><summary>⚡ GitHub Stats</summary>
+<p>
+<a href="https://github.com/Stakhey">
+    <img align ="center" alt="Stakhey's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stakhey&layout=compact&theme=dark"/>   
+</a>
 
-<br />
-<br />
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stakhey&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
-### Language Stats 
+</p>
+</details>
 
-<img align ="left" alt="Stakhey's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stakhey&layout=compact&theme=dark" />  
-
-<br /> 
-<br />
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos 
-<!-- YOUTUBE:START --> 
-<!-- YOUTUBE:END -->
-
-<br /> 
-
----
-
-### 📓 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Actually Perfect Your Code With The Revolutionary #100DaysOfCode Challenge](https://stakhey.medium.com/actually-perfect-your-code-with-the-revolutionary-100daysofcode-challenge-d153984017c6?source=rss-56b18c9cc15d------2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### GitHub Stats
-
-<img align="left" alt="Stakhey's Github Stats" src="https://github-readme-stats-brown-mu.vercel.app/api?username=stakhey&show_icons=true&theme=dark" />  
-
-<br /> 
-<br /> 
-<br /> 
-<br /> 
-<br />  
-<br /> 
-<br /> 
-<br /> 
-
----
-
-### GitHub Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NiklasAsketill/Discord-Welcome-Bot/issues/1) in [NiklasAsketill/Discord-Welcome-Bot](https://github.com/NiklasAsketill/Discord-Welcome-Bot)
-<!--END_SECTION:activity-->
-
-[website]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[website]: https://www.stakhey.com
 [twitter]: https://twitter.com/StakheySedykh
-[youtube]: https://www.youtube.com/channel/UCBtHQBZ3xdlXf67X1k30WYA
-[instagram]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-[linkedin]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[youtube]: https://www.youtube.com/channel/
