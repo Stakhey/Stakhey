@@ -9,12 +9,7 @@ Hello, I'm @Stakhey!
 
 <!--TODO: 5-10 Bullet Points About Me: -->
 - Occupation: I currently attend Dartford Grammar School
-<<<<<<< HEAD
-- #100DaysOfCode Goal: Finish The Odin Project Ruby On Rails path
-- 2023 Coding Goals: Create my personal website and start writing programming blog posts!
-=======
 - 2023 Coding Goals: Create my personal website and finish The Odin Project Ruby On Rails path
->>>>>>> 09af2182d38bcb85472225737b5a0c56900ac28b
 - Future Goals: Start GameDev and take part in the GMTK Game Jam. 
 - ⚽ Fun Fact 1: I support Manchester City and have done since I was 5 years old. My favourite football player of all time is Sergio Agueroooooooooo- 
 - 🎶 Fun Fact 2: My favourite type of music is rock music, so I like listening to bands such as Arctic Monkeys, Lovejoy, The Wombats, Tame Impala and Gorrilaz. 
